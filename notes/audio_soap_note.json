@@ -1,0 +1,38 @@
+{
+  "soap_note": {
+    "subjective": {
+      "chief_complaint": "Fever and body ache",
+      "history_of_present_illness": "Patient reports fever for two days and body aches. Additionally, she reports a sore throat. The doctor also inquired about cold and cough, which was not explicitly denied.",
+      "past_medical_history": "[Not mentioned]",
+      "medications": "Patient has taken PCM (Paracetamol).",
+      "allergies": "[Not mentioned]",
+      "confidence": "HIGH"
+    },
+    "objective": {
+      "vitals": "[Not mentioned]",
+      "physical_examination": "[Not mentioned]",
+      "investigations": "[Not mentioned]",
+      "confidence": "LOW"
+    },
+    "assessment": {
+      "diagnosis": "[Not mentioned]",
+      "reasoning": "[Not mentioned]",
+      "confidence": "LOW"
+    },
+    "plan": {
+      "medications_prescribed": "[Not mentioned - Patient mentioned being prescribed medicines, but specific drug name, dose, frequency, duration were not detailed in the transcript by the doctor.]",
+      "investigations_ordered": "[Not mentioned]",
+      "referrals": "[Not mentioned]",
+      "follow_up": "[Not mentioned]",
+      "patient_education": "Advised to take more rest, drink warm water, and eat warm food like porridge (daliya), kichri, and soup.",
+      "confidence": "MEDIUM"
+    }
+  },
+  "anomaly_flags": [],
+  "summary_in_hindi": "मरीज को दो दिन से बुखार और बदन दर्द है, साथ ही गले में खराश भी है। उन्होंने पेरासिटामोल ली है। डॉक्टर ने उन्हें आराम करने, गर्म पानी पीने और दलिया, खिचड़ी, सूप जैसे गर्म भोजन खाने की सलाह दी है।",
+  "metadata": {
+    "language_detected": "Hinglish",
+    "note_generated_at": "2026-05-31 00:36:11",
+    "disclaimer": "AI-generated draft. Must be reviewed and approved by the treating physician."
+  }
+}

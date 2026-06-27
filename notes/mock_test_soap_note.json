@@ -1,0 +1,44 @@
+{
+  "soap_note": {
+    "subjective": {
+      "chief_complaint": "Bukhar (fever) for 3 days and thakan (fatigue)",
+      "history_of_present_illness": "3 days of fever, with a maximum temperature of 102F at home, accompanied by thodi si khansi (some cough)",
+      "past_medical_history": "[Not mentioned]",
+      "medications": "[Not mentioned]",
+      "allergies": "Penicillin allergy",
+      "confidence": "HIGH"
+    },
+    "objective": {
+      "vitals": "Temperature: 101.4F, BP: 118/76",
+      "physical_examination": "Throat looks red, mild inflammation",
+      "investigations": "[Not mentioned]",
+      "confidence": "HIGH"
+    },
+    "assessment": {
+      "diagnosis": "Viral fever with pharyngitis",
+      "reasoning": "[Not mentioned]",
+      "confidence": "HIGH"
+    },
+    "plan": {
+      "medications_prescribed": "Paracetamol 500mg twice a day for 3 days, throat lozenge",
+      "investigations_ordered": "[Not mentioned]",
+      "referrals": "[Not mentioned]",
+      "follow_up": "Come back in 3 days if not improving",
+      "patient_education": "Drink plenty of fluids",
+      "confidence": "HIGH"
+    }
+  },
+  "anomaly_flags": [
+    {
+      "flag": "No pulse or SpO2 mentioned",
+      "severity": "LOW",
+      "reason": "Not all vital signs were mentioned"
+    }
+  ],
+  "summary_in_hindi": "Aapko viral bukhar aur galay ki sujan hai. Aapko paracetamol aur throat lozenge diya gaya hai. Kayi tarah ke taral padarth peeyein aur 3 din mein phir se checkup ke liye aayein.",
+  "metadata": {
+    "language_detected": "Hinglish",
+    "note_generated_at": "2026-06-27 22:56:59",
+    "disclaimer": "AI-generated draft. Must be reviewed and approved by the treating physician."
+  }
+}

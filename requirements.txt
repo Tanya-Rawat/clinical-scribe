@@ -1,0 +1,6 @@
+openai-whisper
+google-generativeai
+python-dotenv
+pyaudio
+wave
+colorama
