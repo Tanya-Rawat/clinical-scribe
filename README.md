@@ -1,4 +1,4 @@
-# 🏥 Clinical Scribe — AI Documentation Assistant
+# Clinical Scribe — AI Documentation Assistant
 
 > **Audio → Transcript → Structured SOAP Note**
 > English · Hindi · Hinglish (code-switched speech)
@@ -19,14 +19,14 @@ Clinical Scribe converts doctor-patient consultation audio into structured medic
 
 | Feature | Details |
 |---|---|
-| 🎙️ Multilingual transcription | Hindi, English, Hinglish — auto-detected via OpenAI Whisper |
-| 📋 Structured SOAP notes | Subjective, Objective, Assessment, Plan — with confidence scores |
-| 🚨 Anomaly flagging | Drug interactions, abnormal vitals, allergy conflicts |
-| 🇮🇳 Hindi patient summary | Plain language summary for patient-facing use |
-| 🗂️ Patient history summary | Summarizes past records into a 30-second doctor briefing |
-| 💊 Prescription draft | Clearly labelled simulation — not for clinical use |
-| 🛡️ Responsible AI | Mandatory doctor review, confidence scores, bias disclaimers |
-| 🖥️ Streamlit UI | Clean browser interface — upload audio, see SOAP note instantly |
+| Multilingual transcription | Hindi, English, Hinglish — auto-detected via OpenAI Whisper |
+| Structured SOAP notes | Subjective, Objective, Assessment, Plan — with confidence scores |
+| Anomaly flagging | Drug interactions, abnormal vitals, allergy conflicts |
+| Hindi patient summary | Plain language summary for patient-facing use |
+| Patient history summary | Summarizes past records into a 30-second doctor briefing |
+| Prescription draft | Clearly labelled simulation — not for clinical use |
+| Responsible AI | Mandatory doctor review, confidence scores, bias disclaimers |
+| Streamlit UI | Clean browser interface — upload audio, see SOAP note instantly |
 
 ---
 
@@ -63,7 +63,7 @@ Create a file called `.env` in the project folder and add:
 GROQ_API_KEY=your_groq_key_here
 ```
 
-> ⚠️ Never share your `.env` file or push it to GitHub. It is already in `.gitignore`.
+> Never share your `.env` file or push it to GitHub. It is already in `.gitignore`.
 
 ### 5. Install ffmpeg (required for audio decoding)
 - **Ubuntu/Linux:** `sudo apt install ffmpeg`
@@ -160,7 +160,7 @@ This system is built with responsible AI principles:
 Given a Hindi-English consultation where a doctor prescribes Amoxicillin to a patient with documented penicillin allergy, the system generates:
 
 ```
-🚨 ANOMALY FLAGS
+ANOMALY FLAGS
   [HIGH] Amoxicillin prescribed to penicillin-allergic patient
          Reason: Amoxicillin is a penicillin-type antibiotic. Cross-reactivity
                  risk. Prescribing doctor must review immediately.
