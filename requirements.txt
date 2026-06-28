@@ -1,6 +1,6 @@
 openai-whisper
-google-generativeai
+groq
 python-dotenv
-pyaudio
-wave
+streamlit
 colorama
+ffmpeg-python
