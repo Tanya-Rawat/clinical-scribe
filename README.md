@@ -2,7 +2,7 @@
 
 > **Audio → Transcript → Structured SOAP Note**
 
-Built for **NextGen Nexus 2025 — National Generative AI Buildathon | Healthcare Track**
+Built for **NextGen Nexus 2026 — National Generative AI Buildathon | Healthcare Track**
 
 ---
 
