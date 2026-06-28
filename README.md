@@ -1,7 +1,6 @@
 # Clinical Scribe — AI Documentation Assistant
 
 > **Audio → Transcript → Structured SOAP Note**
-> English · Hindi · Hinglish (code-switched speech)
 
 Built for **NextGen Nexus 2025 — National Generative AI Buildathon | Healthcare Track**
 
